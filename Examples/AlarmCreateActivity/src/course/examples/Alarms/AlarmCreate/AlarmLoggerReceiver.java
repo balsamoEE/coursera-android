@@ -17,4 +17,4 @@ public class AlarmLoggerReceiver extends BroadcastReceiver {
 
 	}
 }
-//hola, solo estoy probando, hora ya funciona
+//hola, solo estoy probando, ahora ya funciona
