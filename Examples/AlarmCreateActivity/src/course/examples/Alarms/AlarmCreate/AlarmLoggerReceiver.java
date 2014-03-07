@@ -17,3 +17,4 @@ public class AlarmLoggerReceiver extends BroadcastReceiver {
 
 	}
 }
+//hola, solo estoy probando, pero de momento nada
